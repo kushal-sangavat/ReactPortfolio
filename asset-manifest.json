@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.94374bea.css",
-    "main.js": "/static/js/main.0b90e8f3.js",
-    "index.html": "/index.html",
-    "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
-    "main.94374bea.css.map": "/static/css/main.94374bea.css.map",
-    "main.0b90e8f3.js.map": "/static/js/main.0b90e8f3.js.map"
+    "main.css": "/ReactPortfolio/static/css/main.42819daa.css",
+    "main.js": "/ReactPortfolio/static/js/main.dd00321d.js",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/media/blob-haikei.svg": "/ReactPortfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.42819daa.css.map": "/ReactPortfolio/static/css/main.42819daa.css.map",
+    "main.dd00321d.js.map": "/ReactPortfolio/static/js/main.dd00321d.js.map"
   },
   "entrypoints": [
-    "static/css/main.94374bea.css",
-    "static/js/main.0b90e8f3.js"
+    "static/css/main.42819daa.css",
+    "static/js/main.dd00321d.js"
   ]
 }
